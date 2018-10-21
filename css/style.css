@@ -1,3 +1,4 @@
+/*  Start Logo */
 #logo{
     background-color: #ffffff;
     text-align: left;
@@ -7,3 +8,18 @@
     text-align: center;
     }
 }
+/*  End Logo */
+/*  Start Navbar */
+#navbar{
+    margin-top: 24px;
+}
+.navbar-brand,.nav-link{
+    font-size:22px;
+}
+.navbar-light .navbar-brand{
+    color:#5abf28;
+}
+.nav-link{
+    color:#969696;
+}
+/*  End Navbar Logo */
