@@ -158,3 +158,10 @@
     background-repeat: no-repeat;
 }
 /*  End section C */
+
+/*  Start section E */
+.bg-green{
+    background-color: #5abf28;
+    padding: 30px 0;
+}
+/*  End section E */
