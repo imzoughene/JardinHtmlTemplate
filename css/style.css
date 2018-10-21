@@ -9,7 +9,12 @@
 .Muli{
     font-family: 'Muli', sans-serif; 
 }
-
+.text-green-color{
+    color: #5abf28;
+}
+.text-gray-color{
+    color: #636363
+}
 /*  End Fonts */
 
 
@@ -98,3 +103,15 @@
     width: 100%;
 }
 /*  End section A */
+
+/*  Start section B */
+
+#description-para{
+    padding-top: 15%;
+    font-size: 15px;
+}
+.title-plant-desc{
+    font-size: 66px;
+
+}
+/*  End section B */
