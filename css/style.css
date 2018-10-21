@@ -179,3 +179,21 @@
     width: 60px;
 }
 /*  End section W */
+
+
+
+
+.btn-twitter {
+    background: #00ACEE;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #0075a2;
+  }
+  .btn-twitter:link, .btn-twitter:visited {
+    color: #fff; 
+  }
+  .btn-twitter:active, .btn-twitter:hover {
+    background: #0075a2;
+    color: #fff; 
+  }
