@@ -1,4 +1,22 @@
 /*  Start Logo */
+/*  Start Fonts */
+.monserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.Dancing{
+    font-family: 'Dancing Script', cursive;   
+}
+.Muli{
+    font-family: 'Muli', sans-serif; 
+}
+
+/*  End Fonts */
+
+
+
+
+
+/*  Start Logo */
 #logo{
     background-color: #ffffff;
     text-align: left;
@@ -23,3 +41,60 @@
     color:#969696;
 }
 /*  End Navbar Logo */
+/*  Start social media */
+#social-media{
+    margin: 24px 0;
+ 
+    background-position: center;
+}
+#social-media div[class^="col"] {
+    margin: 0;
+    padding: 0;
+}
+.empty-div-social-link{
+    width: 100%;
+    height: 40px;
+}
+/*  End social media */
+
+
+/*  Start section A */
+#topbg{
+    position: relative;
+}
+#heading1{
+    font-size: 76px;
+    font-weight: bold;
+    color: #ffffff;
+}
+@media (max-width:900px){
+    #heading1{
+        font-size: 56px;
+    }
+}
+@media (max-width:600px){
+    #heading1{
+        font-size: 36px;
+    }
+}
+#desc{
+    font-size: 30px;
+    color: #ffffff;
+
+}
+@media (max-width:600px){
+    #desc{
+        font-size: 20px;
+    }
+}
+@media (max-width:900px){
+    #desc{
+        font-size: 15px;
+    }
+}
+#text-header{
+    position: absolute;
+    top: 15%;
+    width: 100%;
+}
+/*  End section A */
