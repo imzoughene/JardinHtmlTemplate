@@ -1,4 +1,27 @@
-/*  Start Logo */
+/*  Start Pens */
+
+.margin-17{
+    margin: 17px 0;
+}
+.margin-34{
+    margin: 34px 0;
+}
+.bg-strong-gray{
+    background-color: #1f221e;
+}
+.bg-weak-gray{
+    background-color: #272a26;
+}
+.bg-light {
+    background-color: #ffffff!important;
+}
+.no-col-padding div[class^="col"] {
+    margin: 0;
+    padding: 0;
+}
+/*  End Pens */
+
+
 /*  Start Fonts */
 .monserrat{
     font-family: 'Montserrat', sans-serif;
@@ -14,6 +37,18 @@
 }
 .text-gray-color{
     color: #636363
+}
+.easy-green{
+    color: #9dff6c;
+}
+.color-white{
+    color: #ffffff;
+}
+.size-22{
+    font-size: 22px;
+}
+.size-44{
+    font-size: 44px;
 }
 /*  End Fonts */
 
@@ -115,3 +150,11 @@
 
 }
 /*  End section B */
+
+/*  Start section C */
+
+.bg-middle-section{
+    background-image: url("../img/bg-middle-section.jpg");
+    background-repeat: no-repeat;
+}
+/*  End section C */
