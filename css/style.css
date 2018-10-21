@@ -1,0 +1,9 @@
+#logo{
+    background-color: #ffffff;
+    text-align: left;
+}
+@media (max-width:600px){
+    #logo{
+    text-align: center;
+    }
+}
