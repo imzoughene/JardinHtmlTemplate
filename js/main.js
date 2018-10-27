@@ -24,4 +24,15 @@ $( document ).ready(function() {
             img1_x.attr("src","img/circle-gray.png");
         }
     );
+
+
+    $(".hover-me").hover(
+        function(){
+          $(this).find(".img-v-q-1").show()
+        }
+    );
+
+    $( ".hover-me" ).mouseleave(function() {
+        $(this).find(".img-v-q-1").hide()
+    });
 });

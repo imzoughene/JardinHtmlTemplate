@@ -182,6 +182,7 @@
 
 
 
+/*  Star twitter  */
 
 .btn-twitter {
     background: #00ACEE;
@@ -197,3 +198,39 @@
     background: #0075a2;
     color: #fff; 
   }
+/*  End twitter */
+
+
+/*  Star images  */
+.img-class{
+    width: 100%;
+    height: 340px;
+}
+#img-v-1{
+    background: url("../img/s1.jpg") no-repeat center center;   
+}
+#img-v-2{
+    background: url("../img/s2.jpg") no-repeat center center;   
+}
+#img-v-3{
+    background: url("../img/s3.jpg") no-repeat center center;   
+}
+#img-v-4{
+    background: url("../img/s4.jpg") no-repeat center center;   
+}
+#img-v-5{
+    background: url("../img/s5.jpg") no-repeat center center;   
+}
+#img-v-6{
+    background: url("../img/s6.jpg") no-repeat center center;   
+}
+.img-v-q-1{
+    position: absolute;
+    bottom: 0px;
+    opacity: .5;
+    display: none;
+}
+
+
+/*  Star images  */
+
